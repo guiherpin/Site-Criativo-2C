@@ -22,5 +22,10 @@ cabecalho{
 }
 
 .escola-imagem{
-    width: ;
+    width: 25%;
+}
+
+.escola{
+    background-image: linear-gradient(#424e61, #4EBFE9);
+    color: white;
 }
