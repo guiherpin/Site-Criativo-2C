@@ -1,8 +1,26 @@
-header{
+cabecalho{
+    margin: 0;
+    padding: 0;
+}
+.cabcalho{
     background-color: #424e61;
-    color: white;
+    color: wheat;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px ;
 }
 
-.cabeçalho-imagem{
+.cabecalho-imagem{
     width: 20%;
+}
+
+.cabecalho-lista-item{
+     display: inline-block;
+     margin: 0 16px;
+     font-size: 24px;  
+}
+
+.escola-imagem{
+    width: ;
 }
