@@ -2,7 +2,7 @@ cabecalho{
     margin: 0;
     padding: 0;
 }
-.cabcalho{
+.cabecalho{
     background-color: #424e61;
     color: wheat;
     display: flex;
@@ -31,8 +31,13 @@ cabecalho{
     display: flex;
     justify-content: center;
     align-items: center;
+    padding: 24px 0;
 }
 
 .escola-div-conteudo{
     width: 35%;
+}
+
+.escola-titulo{
+    padding: 24px 0;
 }
