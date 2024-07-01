@@ -28,4 +28,11 @@ cabecalho{
 .escola{
     background-image: linear-gradient(#424e61, #4EBFE9);
     color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.escola-div-conteudo{
+    width: 35%;
 }
