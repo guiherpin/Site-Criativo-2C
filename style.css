@@ -63,3 +63,16 @@ cabecalho{
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
 }
+
+.rodapé{
+    background-color: black;
+    text-align: center;
+
+}
+
+.rodapé-imagem{
+    height: 60px;
+    padding: 12px;
+
+}
+
